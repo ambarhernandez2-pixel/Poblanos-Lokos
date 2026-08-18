@@ -30,6 +30,17 @@ DISTRIBUIDOR YONERONE ENVÍOS EXPRESS A TODO MEXICO Y ESTADOS UNIDOS  ENTREGAS P
       text-align: center;
     }
 
+        /* LOGO */
+    .logo {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 15px;
+      border: 3px solid white;
+      box-shadow: 0 5px 20px rgba(0,0,0,0.12);
+    }
+    
     /* NOMBRE */
     h1 {
       font-size: 26px;
